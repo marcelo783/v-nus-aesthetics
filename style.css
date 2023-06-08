@@ -12,7 +12,6 @@ body{
 
 a:hover{
     text-decoration: none;
-    color: black;
 
 }
 
@@ -39,11 +38,13 @@ header{
 }
 
 nav a{
+    color: #7927c5;
     font-weight: 549;
     padding-right: 40px;
+    text-decoration: none;
 }
 
-nav a:hover{
+nav a{
     background-color: rgb(192, 31, 189);
 }
 
